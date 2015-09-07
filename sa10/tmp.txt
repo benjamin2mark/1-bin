@@ -1,3 +1,2 @@
 Aug 21 2015 10:00:00,https://raw.githubusercontent.com/k-new/1-bin/master/sa10/v001
-Aug 24 2015 14:00:00,https://raw.githubusercontent.com/k-new/1-bin/master/sa10/v002
-Aug 24 2015 16:00:00,https://raw.githubusercontent.com/k-new/1-bin/master/sa10/v003
+Sep  6 2015 17:30:00,https://raw.githubusercontent.com/k-new/1-bin/master/sa10/v001
